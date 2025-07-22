@@ -1,6 +1,6 @@
 # EPUB Text Analysis in Google Colab
 
-This notebook allows you to upload an EPUB file and automatically perform **text extraction**, **cleaning**, **visualization**, **sentiment analysis**, **summarization**, and **classification** — all in one place using Google Colab.
+This notebook allows you to upload an EPUB file and automatically perform **text extraction**, **cleaning**, **visualization**, **sentiment analysis**, **summarization**, and **classification**.
 
 ---
 
